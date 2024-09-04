@@ -27,6 +27,8 @@ The project was carried out in the following step-by-step process:
 * **Creating Clusters:** Clustering techniques were applied to group the content based on attributes like director, cast, country, genre, rating, and description. These attributes were tokenized, preprocessed, and vectorized using the TF-IDF vectorizer.
 
 * **Dimensionality Reduction:** The dimensionality of the dataset was reduced using Principal Component Analysis (PCA) to improve performance and eliminate noise.
+* ![image](https://github.com/user-attachments/assets/1e786b36-e391-4853-ba59-0b1661bf1701)
+
 
 * **Clustering Algorithms:** Both K-Means Clustering and Agglomerative Hierarchical Clustering algorithms were utilized to create clusters. The optimal number of clusters was determined (4 for K-Means and 2 for hierarchical clustering) using various evaluation methods.
 * ![image](https://github.com/user-attachments/assets/b9fa1154-3af7-43db-b3bb-83685b641999)
